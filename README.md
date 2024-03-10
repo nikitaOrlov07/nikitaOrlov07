@@ -18,7 +18,7 @@
    - Spring (Spring MVC , Spring Security, Spring Boot)
 - Databases: MySQL, SQL , PostgreSQL
 
-## 📊 GitHub статистика
+## 📊 GitHub statistics
 <table>
   <tr>
     <td>
@@ -29,6 +29,6 @@
     </td>
   </tr>
 </table>
-## Codewars статистика 
+## Codewars statistics
 <img src="https://www.codewars.com/users/Nikita%20Orlov/badges/large" alt="CodeWars Badge">
 
