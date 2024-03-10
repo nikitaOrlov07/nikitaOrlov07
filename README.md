@@ -1,5 +1,9 @@
 # Hello , i am Nikita Orlov 
 
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
+
 ## 🙋‍♂️ Some information about me 
 - 🎓 I am studying at FEI STU in the field of Information and Communication Technologies. Second Year
 - 🌱 I am currently studying frameworks, specifically Spring.
