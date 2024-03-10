@@ -1,18 +1,22 @@
 # Hello , i am Nikita Orlov 
 
-## 🙋‍♂️ Some information about me 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-- 🎓 I am studying at FEI STU in the field of Information and Communication Technologies
+## 🙋‍♂️ Some information about me 
+- 🎓 I am studying at FEI STU in the field of Information and Communication Technologies.
 - 🌱 I am currently studying frameworks, specifically Spring.
 - 📫 How you can reach me ? All links are in profil.
 
 ## 🛠️ My skills
 - Programming languages: 
    - Java, C,  HTML, CSS , C++ , Python
+- Office:
+   - Microsoft Word , Microsoft Excel, Microsoft PowerPoint
 - Frameworks: 
    - Spring (Spring MVC , Spring Security, Spring Boot)
 - Databases: MySQL, SQL , PostgreSQL
-
 
 ## 📊 GitHub статистика
 <table>
