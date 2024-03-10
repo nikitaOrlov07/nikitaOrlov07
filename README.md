@@ -6,16 +6,12 @@
 - 🌱 I am currently studying frameworks, specifically Spring.
 - 📫 How you can reach me ? All links are in profil.
 
-## 🛠️ Мои навыки
-
-- Языки программирования: 
-   - ![Java](https://upload.wikimedia.org/wikipedia/ru/thumb/3/33/Java_logo.svg/100px-Java_logo.svg.png) Java
-   - ![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/50px-C_Logo.png) C
-   - ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png) HTML
-   - ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png) CSS
-- Фреймворки: 
+## 🛠️ My skills
+- Programming languages: 
+   - Java, C,  HTML, CSS , C++ , Python
+- Frameworks: 
    - Spring (Spring MVC , Spring Security, Spring Boot)
-- Базы данных: MySQL, SQL , PostgreSQL
+- Databases: MySQL, SQL , PostgreSQL
 
 
 ## 📊 GitHub статистика
