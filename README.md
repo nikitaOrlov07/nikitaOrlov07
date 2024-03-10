@@ -24,5 +24,6 @@
     </td>
   </tr>
 </table>
-## Codewars статистика
-![CodeWars Badge](https://www.codewars.com/users/Nikita%20Orlov/badges/large)
+## Codewars статистика 
+<img src="https://www.codewars.com/users/Nikita%20Orlov/badges/large" alt="CodeWars Badge">
+
