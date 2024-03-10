@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### 💻 Codewars: ![codewars](:https://www.codewars.com/users/Nikita%20Orlov/badges/large)
-### ⚙️ GitHub статистика:
+--> ### 💻 Codewars: ![codewars](:https://www.codewars.com/users/Nikita%20Orlov/badges/large)
+--> ### ⚙️ GitHub статистика:
 <table>
   <tr>
     <td>
