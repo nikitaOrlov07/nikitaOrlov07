@@ -29,6 +29,7 @@
     </td>
   </tr>
 </table>
-##📊 Codewars statistics
+
+## 📊 Codewars statistics
 <img src="https://www.codewars.com/users/Nikita%20Orlov/badges/large" alt="CodeWars Badge">
 
