@@ -16,7 +16,8 @@
    - Microsoft Word , Microsoft Excel, Microsoft PowerPoint
 - Frameworks: 
    - Spring (Spring MVC , Spring Security, Spring Boot)
-- Databases: MySQL, SQL , PostgreSQL
+- Databases:
+   - MySQL, SQL , PostgreSQL
 
 ## 📊 GitHub statistics
 <table>
