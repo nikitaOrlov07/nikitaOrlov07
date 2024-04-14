@@ -11,7 +11,7 @@
 
 ## 🛠️ My skills
 - Programming languages: 
-   - Java, C, C++ , Python, HTML, CSS 
+   - Java, C, C++ , Python, HTML, CSS , Docker
 - Office:
    - Microsoft Word , Microsoft Excel, Microsoft PowerPoint
 - Frameworks: 
