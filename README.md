@@ -11,11 +11,11 @@
 
 ## 🛠️ My skills
 - Programming languages: 
-   - Java, C, C++ , Python, HTML, CSS ,Java Script , Docker
-- Office:
-   - Microsoft Word , Microsoft Excel, Microsoft PowerPoint
+   - Java, C, C++ , Python, HTML, CSS ,Java Script
 - Frameworks: 
-   - Spring (Spring MVC , Spring Security, Spring Boot, Spring JPA)
+   - Spring (Spring MVC , Spring Security, Spring Boot, Spring JPA), Hibernate
+- Devops:
+   - Docker , Kubernetes    
 - Databases:
    - MySQL, SQL , PostgreSQL
 
