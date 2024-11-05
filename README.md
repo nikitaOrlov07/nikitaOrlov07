@@ -11,9 +11,10 @@
 
 ## 🛠️ My skills
 - Programming languages: 
-   - Java, C, C++ , Python, HTML, CSS ,Java Script
+   - Backend: Java, C, C++ , Python
+   - Frontend: HTML, CSS , Java Script , React
 - Frameworks: 
-   - Spring (Spring MVC , Spring Security, Spring Boot, Spring JPA), Hibernate
+   - Spring (Spring MVC , Spring Security (Sessions , JWT tokens), Spring Boot, Spring JPA , Spring Discovery Eureka Server), Hibernate 
 - Devops:
    - Docker , Kubernetes    
 - Databases:
