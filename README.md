@@ -5,8 +5,7 @@
 </p>
 
 ## 🙋‍♂️ Some information about me 
-- 🎓 I am studying at FEI STU in the field of Information and Communication Technologies. Third Year
-- 🌱 I am currently studying frameworks, specifically Spring.
+- 🎓 Bachelor's degree from FEI STU. Currently studying for a master's degree at FEI STU. 
 - 📫 How you can reach me ? All links are in profil.
 
 ## 🛠️ My skills
